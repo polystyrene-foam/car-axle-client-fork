@@ -1,6 +1,6 @@
 <div align="center">
  
-# car axle client
+# car axle client fork
 ### The **MOST POPULAR** bookmarklet menu. Proxies, games, and exploits in a clean ui. (by @penguinify)
  
  <img src="docs/caraxle.png" alt="drawing" width="500"/><br>
@@ -29,7 +29,7 @@
 
 ## NOTICE
 
-1. This repository is a fork and most of it is not mine. Credit to @penguinify for the original repo.
+1. This repository is a fork and most of it is not mine. Credit to [@penguinify](https://github.com/Penguinify) for the original repo.
 
 2. A recent update to ChromeOS (v115/v116) released in August 2023 has blocked all javascript: and javascript:// bookmarklets. If you use a managed Chromebook and **Devtools are turned off** (that means Inspect element, etc.) (they must be turned off or bookmarklets still work) then the Car Axle Client Bookmarklet won't work. You can still use an [about:blank Injector however](https://disnos9.github.io/jsinject/) but some features won't work. (Things like history flooder, scripts, etc.)
 
@@ -63,8 +63,7 @@ go here (unavailble): https://github.com/car-axle-client/gme-hosting-v2
 
 # people with write access
 
--   [@penguinify](https://github.com/Penguinify) main developer
--   [@disnos9](https://github.com/disnos9) side developer
+-   [@polystyrene-foam](https://github.com/polystyrene-foam) main developer
 
 # Contributing
 
@@ -89,7 +88,7 @@ pnpm build
 ```
 
 Contributing is made to be as easy as possible.  
-Check out the wiki for a guide on how the code works!
+Check out the wiki in the [original repository](https://github.com/Penguinify/car-axle-client) for a guide on how the code works!
 
 Just fork and submit a pr and I will likely add it with some minor changes.
 
