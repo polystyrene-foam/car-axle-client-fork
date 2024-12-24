@@ -61,7 +61,7 @@ v7 example
 
 go here (unavailble): https://github.com/car-axle-client/gme-hosting-v2
 
-# people with write access
+# people with write access and credit
 
 -   [@polystyrene-foam](https://github.com/polystyrene-foam) main developer
 -   [@Penguinify](https://github.com/Penguinify) original developer
