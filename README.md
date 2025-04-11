@@ -29,9 +29,11 @@
 
 ## NOTICE
 
-1. This repository is a fork and most of it is not mine. Credit to [@penguinify](https://github.com/Penguinify) for the original repo.
+1. This repository is a fork and most of it is not mine. Credit to [@penguinify](https://github.com/Penguinify) for the original repo. I forked the original repo to try and revive v8, which is the latest version with a chat feature.
 
-2. A recent update to ChromeOS (v115/v116) released in August 2023 has blocked all javascript: and javascript:// bookmarklets. If you use a managed Chromebook and **Devtools are turned off** (that means Inspect element, etc.) (they must be turned off or bookmarklets still work) then the Car Axle Client Bookmarklet won't work. You can still use an [about:blank Injector however](https://disnos9.github.io/jsinject/) but some features won't work. (Things like history flooder, scripts, etc.)
+2. If your school has blocked "javascript:" and/or "javascript://" links, you may not be able to use javascript bookmarklets, including this one. Try it yourself, but don't be surprised if it doesn't work.
+
+3. A recent update to ChromeOS (v115/v116) released in August 2023 has blocked all javascript: and javascript:// bookmarklets. If you use a managed Chromebook and **Devtools are turned off** (that means Inspect element, etc.) (they must be turned off or bookmarklets still work) then the Car Axle Client Bookmarklet won't work. You can still use an [about:blank Injector however](https://disnos9.github.io/jsinject/) but some features won't work. (Things like history flooder, scripts, etc.)
 
 ## Features
 
