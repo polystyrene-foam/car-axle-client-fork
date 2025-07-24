@@ -1,3 +1,5 @@
+# Please go to the v8-test branch for the actual repo
+For some reason I could not make that the main branch.
 # Why I stopped maintaining this project and deleted the website
 - Too many people were using it for me to handle and I almost accidently lost $200 on aws bills
 - Lack of people who could help me work on it because:
